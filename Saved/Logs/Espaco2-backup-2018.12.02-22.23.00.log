@@ -1,0 +1,1591 @@
+﻿Log file open, 11/26/18 15:02:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Espaco2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.523025
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.704s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz, GPU: NVIDIA GeForce GTX 660 Ti
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Engine.ini]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Engine.ini]
+[2018.11.26-17.02.38:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Engine.ini]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Engine.ini]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.11.26-17.02.38:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Engine.ini]
+[2018.11.26-17.02.38:118][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Engine.ini]
+[2018.11.26-17.02.38:121][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Scalability.ini]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Scalability.ini]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Scalability.ini]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Scalability.ini]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Scalability.ini]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.26-17.02.38:121][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Scalability.ini]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Scalability.ini]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.26-17.02.38:122][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.26-17.02.38:122][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.26-17.02.38:122][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.26-17.02.38:866][  0]LogHAL: Display: Platform has ~ 8 GB [8514019328 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.11.26-17.02.38:866][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.26-17.02.38:866][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Scalability.ini]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.26-17.02.38:866][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Scalability.ini]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.11.26-17.02.38:866][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Scalability.ini]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.26-17.02.38:866][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Scalability.ini]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Scalability.ini]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Scalability.ini]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Scalability.ini]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.26-17.02.38:867][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.11.26-17.02.38:868][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.11.26-17.02.38:868][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Config/Windows/Engine.ini]
+[2018.11.26-17.02.38:868][  0]LogInit: Computer: DESKTOP-FHQV5IG
+[2018.11.26-17.02.38:868][  0]LogInit: User: Senice
+[2018.11.26-17.02.38:868][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.26-17.02.38:868][  0]LogInit: High frequency timer resolution =2.648441 MHz
+[2018.11.26-17.02.38:868][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.26-17.02.38:868][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.26-17.02.38:868][  0]LogMemory: Process Physical Memory: 102.17 MB used, 102.17 MB peak
+[2018.11.26-17.02.38:868][  0]LogMemory: Process Virtual Memory: 89.04 MB used, 89.04 MB peak
+[2018.11.26-17.02.38:868][  0]LogMemory: Physical Memory: 3488.54 MB used,  4631.06 MB free, 8119.60 MB total
+[2018.11.26-17.02.38:868][  0]LogMemory: Virtual Memory: 4638.18 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2018.11.26-17.02.39:095][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.11.26-17.02.39:095][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.11.26-17.02.40:042][  0]LogStreaming: Display: Took  0.948s to InitEngineTextLocalization.
+[2018.11.26-17.02.40:042][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.26-17.02.40:398][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.26-17.02.40:398][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.26-17.02.43:085][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.26-17.02.43:085][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.26-17.02.43:275][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660 Ti' (Feature Level 11_0)
+[2018.11.26-17.02.43:275][  0]LogD3D11RHI:       2015/0/4059 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.26-17.02.43:381][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.26-17.02.43:381][  0]LogD3D11RHI:       0/0/4059 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.26-17.02.43:381][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.26-17.02.43:389][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.26-17.02.43:389][  0]LogD3D11RHI:     GPU DeviceId: 0x1183 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.26-17.02.43:389][  0]LogWindows: EnumDisplayDevices:
+[2018.11.26-17.02.43:389][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660 Ti' (P:1 D:1)
+[2018.11.26-17.02.43:389][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:0)
+[2018.11.26-17.02.43:389][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:0)
+[2018.11.26-17.02.43:390][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:0)
+[2018.11.26-17.02.43:390][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.26-17.02.43:390][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660 Ti
+[2018.11.26-17.02.43:390][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.11.26-17.02.43:390][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.11.26-17.02.43:390][  0]LogRHI: Texture pool is 1410 MB (70% of 2015 MB)
+[2018.11.26-17.02.43:428][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.26-17.02.43:447][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.26-17.02.44:842][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.26-17.02.44:861][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.26-17.02.44:911][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.26-17.02.44:940][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.26-17.02.45:032][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.26-17.02.45:064][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.26-17.02.45:115][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.26-17.02.45:138][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.26-17.02.45:154][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-17.02.45:285][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.26-17.02.45:412][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.26-17.02.45:412][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.26-17.02.45:447][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.26-17.02.45:447][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.26-17.02.45:492][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.26-17.02.45:517][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.26-17.02.45:535][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.26-17.02.45:565][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.26-17.02.45:633][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.26-17.02.45:633][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.26-17.02.45:633][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.26-17.02.46:078][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Intermediate/Shaders/WorkingDirectory/540/).
+[2018.11.26-17.02.46:078][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Senice/AppData/Local/Temp/UnrealShaderWorkingDir/E55C05E04490E44B6B88368E973C0971/'.
+[2018.11.26-17.02.46:095][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.26-17.02.46:095][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.26-17.02.46:095][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.26-17.02.46:788][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.26-17.02.47:449][  0]LogDerivedDataCache: Loaded boot cache 0.66s 71MB C:/Users/Senice/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.26-17.02.47:450][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Senice/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.11.26-17.02.47:450][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.26-17.02.47:450][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.26-17.02.47:450][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.26-17.02.47:450][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.26-17.02.47:480][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.26-17.02.47:481][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.26-17.02.47:481][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.11.26-17.02.47:507][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Senice/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.26-17.02.47:507][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.26-17.02.47:507][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.26-17.02.47:532][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.26-17.02.47:534][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.26-17.02.47:568][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.26-17.02.48:861][  0]LogAssetRegistry: FAssetRegistry took 0.0342 seconds to start up
+[2018.11.26-17.02.49:577][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.26-17.02.50:340][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.26-17.02.50:478][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.26-17.02.50:478][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.26-17.02.50:478][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.26-17.02.50:478][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.26-17.02.50:496][  0]LogNetVersion: Espaco2 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2554305400)
+[2018.11.26-17.02.51:431][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.060152 seconds
+[2018.11.26-17.02.51:437][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.11.26-17.02.51:437][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.11.26-17.02.51:437][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.26-17.03.31:043][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.26-17.03.31:099][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.26-17.03.32:456][  0]SourceControl: Source control is disabled
+[2018.11.26-17.03.32:457][  0]SourceControl: Source control is disabled
+[2018.11.26-17.03.32:556][  0]SourceControl: Source control is disabled
+[2018.11.26-17.03.32:564][  0]SourceControl: Source control is disabled
+[2018.11.26-17.03.33:709][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.26-17.03.34:034][  0]LogOcInput: OculusInput pre-init called
+[2018.11.26-17.03.34:289][  0]LogEngine: Initializing Engine...
+[2018.11.26-17.03.34:290][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.26-17.03.34:291][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.26-17.03.34:291][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.26-17.03.34:291][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.26-17.03.34:291][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.26-17.03.34:624][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.26-17.03.34:720][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.26-17.03.34:759][  0]LogInit: XAudio2 using 'Fone de ouvido do headset (2- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.26-17.03.34:818][  0]LogInit: FAudioDevice initialized.
+[2018.11.26-17.03.34:818][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.26-17.03.34:827][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/Senice/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.26-17.03.34:827][  0]LogInit: Texture streaming: Enabled
+[2018.11.26-17.03.34:913][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.26-17.03.35:085][  0]LogInit: Transaction tracking system initialized
+[2018.11.26-17.03.35:294][  0]BlueprintLog: New page: Editor Load
+[2018.11.26-17.03.35:956][  0]LocalizationService: Localization service is disabled
+[2018.11.26-17.03.37:383][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Senice/Documents/Unreal Projects/Espaco2/Content/' took 0.01s
+[2018.11.26-17.03.37:383][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.26-17.03.37:383][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.26-17.03.37:383][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.26-17.03.37:383][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.26-17.03.37:383][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.26-17.03.37:383][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.26-17.03.37:384][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.26-17.03.39:717][  0]SourceControl: Source control is disabled
+[2018.11.26-17.03.39:717][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-17.03.39:718][  0]LightingResults: New page: Lighting Build
+[2018.11.26-17.03.39:776][  0]MapCheck: New page: Map Check
+[2018.11.26-17.03.39:776][  0]LightingResults: New page: Lighting Build
+[2018.11.26-17.03.40:429][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.11.26-17.03.40:459][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-17.03.40:498][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-17.03.40:498][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2018.11.26-17.03.40:498][  0]LogFileHelpers: Loading map 'Template_Default' took 0.781
+[2018.11.26-17.03.40:971][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.03.40:979][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.03.40:986][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.03.40:994][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.03.41:034][  0]LogCollectionManager: Loaded 0 collections in 0.002102 seconds
+[2018.11.26-17.03.41:131][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Collections/' took 0.01s
+[2018.11.26-17.03.41:131][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Senice/Documents/Unreal Projects/Espaco2/Content/Developers/Senice/Collections/' took 0.01s
+[2018.11.26-17.03.41:131][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Senice/Documents/Unreal Projects/Espaco2/Content/Collections/' took 0.01s
+[2018.11.26-17.03.41:131][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.26-17.03.41:140][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2651 classes and 620 folders.
+[2018.11.26-17.03.41:171][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.26-17.03.41:243][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:295][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:297][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:300][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:302][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:305][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:312][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:314][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:316][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:318][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:320][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:322][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:325][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:327][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:328][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:330][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:332][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:338][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.41:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.26-17.03.42:212][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.26-17.03.42:236][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.26-17.03.42:319][  0]LogSlate: Took 0.000401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.26-17.03.42:322][  0]LogSlate: Took 0.000431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.26-17.03.42:360][  0]LogSlate: Took 0.031483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.26-17.03.42:513][  0]LogRenderer: Reallocating scene render targets to support 1204x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.26-17.03.42:660][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.26-17.03.42:660][  0]LogLoad: (Engine Initialization) Total time: 95.13 seconds
+[2018.11.26-17.03.42:660][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.26-17.03.42:759][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.26-17.03.42:792][  1]LogAssetRegistry: Asset discovery search completed in 53.9533 seconds
+[2018.11.26-17.03.42:794][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.26-17.03.42:794][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
+[2018.11.26-17.06.04:857][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.06.06:793][258]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.11.26-17.06.06:794][258]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.26-17.06.06:796][258]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2018.11.26-17.06.08:240][258]LogSlate: Window 'Message' being destroyed
+[2018.11.26-17.06.08:245][258]LogEditorActor: Deleted Actor: DirectionalLight
+[2018.11.26-17.06.08:245][258]LogEditorActor: Deleted Actor: PlayerStart
+[2018.11.26-17.06.08:246][258]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.11.26-17.06.08:247][258]LogEditorActor: Deleted Actor: SkyLight
+[2018.11.26-17.06.08:247][258]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.11.26-17.06.08:281][258]LogEditorActor: Deleted 7 Actors (1.510 secs)
+[2018.11.26-17.06.12:406][750]LogActorFactory: Actor Factory created Sphere
+[2018.11.26-17.06.12:701][783]LogActorFactory: Actor Factory created Sphere
+[2018.11.26-17.06.13:928][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.06.25:521][304]Cmd: EDIT COPY
+[2018.11.26-17.06.25:978][345]Cmd: EDIT PASTE
+[2018.11.26-17.06.26:891][442]Cmd: EDIT PASTE
+[2018.11.26-17.06.27:185][473]Cmd: EDIT PASTE
+[2018.11.26-17.06.27:423][497]Cmd: EDIT PASTE
+[2018.11.26-17.06.27:679][523]Cmd: EDIT PASTE
+[2018.11.26-17.06.27:954][551]Cmd: EDIT PASTE
+[2018.11.26-17.06.28:398][600]Cmd: EDIT PASTE
+[2018.11.26-17.07.20:766][872]LogSlate: Took 0.104196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.26-17.07.36:842][503]LogEditorViewport: Clicking Background
+[2018.11.26-17.07.37:344][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.08.07:113][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sun)
+[2018.11.26-17.08.08:511][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.11.20:152][ 32]Cmd: EDIT COPY
+[2018.11.26-17.11.20:371][ 58]Cmd: EDIT PASTE
+[2018.11.26-17.12.05:330][203]LogEditorViewport: Clicking Background
+[2018.11.26-17.12.32:905][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.12.37:012][888]LogEditorViewport: Clicking Background
+[2018.11.26-17.12.37:587][956]LogEditorViewport: Clicking Background
+[2018.11.26-17.12.38:140][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mercury)
+[2018.11.26-17.12.46:335][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.13.01:210][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.13.18:591][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.13.24:653][655]LogEditorViewport: Clicking Background
+[2018.11.26-17.13.25:310][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.13.32:748][590]Cmd: TRANSACTION UNDO
+[2018.11.26-17.13.32:748][590]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.26-17.13.32:847][590]LogSlate: Took 0.014874 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.26-17.13.36:520][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.14.03:975][709]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.14.04:574][709]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Untitled_1_Auto1BB8240CC4C87734FA5E173A2EE1C5EB2.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.11.26-17.14.04:621][709]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.622
+[2018.11.26-17.14.04:621][709]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.622
+[2018.11.26-17.14.24:289][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.15.35:517][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.16.17:574][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.17.01:381][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.17.35:046][347]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.18.32:488][477]LogEditorViewport: Clicking Background
+[2018.11.26-17.18.53:171][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.18.55:956][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mars)
+[2018.11.26-17.18.57:590][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.20.39:351][760]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.20.44:304][113]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.26-17.20.51:285][763]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Senice\Desktop\2k_mercury.jpg)
+[2018.11.26-17.20.51:418][763]LogTexture: Display: Building textures: 2k_mercury (AutoDXT, 2048X1024)
+[2018.11.26-17.20.53:378][763]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Senice\Desktop\2k_venus_surface.jpg)
+[2018.11.26-17.20.53:442][763]LogTexture: Display: Building textures: 2k_venus_surface (AutoDXT, 2048X1024)
+[2018.11.26-17.20.55:828][763]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Senice\Desktop\2k_mars.jpg)
+[2018.11.26-17.20.55:886][763]LogTexture: Display: Building textures: 2k_mars (AutoDXT, 2048X1024)
+[2018.11.26-17.20.57:882][763]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Senice\Desktop\2k_jupiter.jpg)
+[2018.11.26-17.20.57:923][763]LogTexture: Display: Building textures: 2k_jupiter (AutoDXT, 2048X1024)
+[2018.11.26-17.20.59:449][763]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Senice\Desktop\2k_saturn.jpg)
+[2018.11.26-17.20.59:478][763]LogTexture: Display: Building textures: 2k_saturn (AutoDXT, 2048X1024)
+[2018.11.26-17.20.59:884][763]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Senice\Desktop\2k_neptune.jpg)
+[2018.11.26-17.20.59:917][763]LogTexture: Display: Building textures: 2k_neptune (AutoDXT, 2048X1024)
+[2018.11.26-17.21.00:220][763]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Senice\Desktop\2k_uranus.jpg)
+[2018.11.26-17.21.00:241][763]LogTexture: Display: Building textures: 2k_uranus (AutoDXT, 2048X1024)
+[2018.11.26-17.22.09:072][266]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Senice\Desktop\2k_earth_daymap.jpg)
+[2018.11.26-17.22.09:112][266]LogTexture: Display: Building textures: 2k_earth_daymap (AutoDXT, 2048X1024)
+[2018.11.26-17.22.10:132][266]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Senice\Desktop\2k_earth_nightmap.jpg)
+[2018.11.26-17.22.10:159][266]LogTexture: Display: Building textures: 2k_earth_nightmap (AutoDXT, 2048X1024)
+[2018.11.26-17.22.10:614][266]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Senice\Desktop\2k_stars.jpg)
+[2018.11.26-17.22.10:643][266]LogTexture: Display: Building textures: 2k_stars (AutoDXT, 2048X1024)
+[2018.11.26-17.22.10:860][266]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Senice\Desktop\2k_sun.jpg)
+[2018.11.26-17.22.10:920][266]LogTexture: Display: Building textures: 2k_sun (AutoDXT, 2048X1024)
+[2018.11.26-17.22.13:441][266]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Senice\Desktop\2k_moon.jpg)
+[2018.11.26-17.22.13:498][266]LogTexture: Display: Building textures: 2k_moon (AutoDXT, 2048X1024)
+[2018.11.26-17.22.56:806][358]LogMaterial: Display: Missing cached shader map for material 2k_mercury_Mat, compiling. 
+[2018.11.26-17.22.57:263][358]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-17.22.57:264][358]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-17.22.57:264][358]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-17.23.03:312][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.23.23:012][305]LogMaterial: Display: Missing cached shader map for material 2k_venus_surface_Mat, compiling. 
+[2018.11.26-17.23.23:030][305]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-17.23.23:030][305]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-17.23.23:030][305]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-17.23.25:153][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.23.27:927][851]LogMaterial: Display: Missing cached shader map for material 2k_earth_daymap_Mat, compiling. 
+[2018.11.26-17.23.27:940][851]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-17.23.27:940][851]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-17.23.28:158][872]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-17.23.36:460][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.23.48:813][239]LogMaterial: Display: Missing cached shader map for material 2k_mars_Mat, compiling. 
+[2018.11.26-17.23.48:829][239]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-17.23.48:829][239]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-17.23.48:829][239]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-17.23.54:802][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.24.01:169][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.24.01:835][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Jupter)
+[2018.11.26-17.24.07:601][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.24.08:564][501]LogMaterial: Display: Missing cached shader map for material 2k_jupiter_Mat, compiling. 
+[2018.11.26-17.24.08:593][502]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-17.24.08:593][502]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-17.24.08:593][502]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-17.24.09:356][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Saturn)
+[2018.11.26-17.24.11:584][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.24.12:432][930]LogMaterial: Display: Missing cached shader map for material 2k_saturn_Mat, compiling. 
+[2018.11.26-17.24.12:446][930]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-17.24.12:446][930]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-17.24.13:203][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Uranus)
+[2018.11.26-17.24.14:221][122]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-17.24.15:306][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.24.16:244][331]LogMaterial: Display: Missing cached shader map for material 2k_uranus_Mat, compiling. 
+[2018.11.26-17.24.16:256][331]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-17.24.16:256][331]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-17.24.17:227][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.24.18:434][546]LogMaterial: Display: Missing cached shader map for material 2k_neptune_Mat, compiling. 
+[2018.11.26-17.24.18:749][574]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.26-17.24.20:489][746]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.26-17.24.21:748][833]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.26-17.24.22:572][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.24.24:520][117]LogMaterial: Display: Missing cached shader map for material 2k_sun_Mat, compiling. 
+[2018.11.26-17.24.24:533][117]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-17.24.24:533][117]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-17.24.25:395][207]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-17.24.30:054][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Venus)
+[2018.11.26-17.24.30:138][710]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.26-17.24.31:508][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.24.35:246][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mercury)
+[2018.11.26-17.24.35:308][315]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.26-17.24.36:740][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.24.43:549][271]LogEditorViewport: Clicking Background
+[2018.11.26-17.24.44:861][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.24.47:941][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.24.58:184][512]LogMaterial: Display: Missing cached shader map for material 2k_earth_nightmap_Mat, compiling. 
+[2018.11.26-17.24.58:209][512]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-17.24.58:209][512]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-17.24.58:209][512]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-17.25.07:415][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.25.41:043][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Untitled_1_Auto27CA2CD294FFC4D1CF70B259C6FC5F969.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2018.11.26-17.25.41:046][441]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.985
+[2018.11.26-17.25.41:046][441]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.985
+[2018.11.26-17.25.41:049][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_mercury] ([1] browsable assets)...
+[2018.11.26-17.25.41:082][441]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Texture/2k_mercury.2k_mercury]
+[2018.11.26-17.25.41:082][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_mercury]
+[2018.11.26-17.25.41:129][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_mercury_Auto287C126014C23E3E84D72EEA9383EB33E.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_mercury_Auto2.uasset'
+[2018.11.26-17.25.41:130][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_venus_surface] ([1] browsable assets)...
+[2018.11.26-17.25.41:136][441]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Texture/2k_venus_surface.2k_venus_surface]
+[2018.11.26-17.25.41:136][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_venus_surface]
+[2018.11.26-17.25.41:147][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_venus_surface_Auto2ACE358DD4D6D1395CBC5D49A1719CB23.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_venus_surface_Auto2.uasset'
+[2018.11.26-17.25.41:148][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_mars] ([1] browsable assets)...
+[2018.11.26-17.25.41:154][441]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Texture/2k_mars.2k_mars]
+[2018.11.26-17.25.41:154][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_mars]
+[2018.11.26-17.25.41:154][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_mars" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_mars_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.11.26-17.25.41:165][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_mars_Auto276E863E24420CE95AE6476BC541B4311.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_mars_Auto2.uasset'
+[2018.11.26-17.25.41:167][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_jupiter] ([1] browsable assets)...
+[2018.11.26-17.25.41:172][441]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Texture/2k_jupiter.2k_jupiter]
+[2018.11.26-17.25.41:172][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_jupiter]
+[2018.11.26-17.25.41:184][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_jupiter_Auto2671278AB4D1EA553643C3897F356040A.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_jupiter_Auto2.uasset'
+[2018.11.26-17.25.41:185][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_saturn] ([1] browsable assets)...
+[2018.11.26-17.25.41:190][441]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Texture/2k_saturn.2k_saturn]
+[2018.11.26-17.25.41:190][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_saturn]
+[2018.11.26-17.25.41:218][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_saturn_Auto2FDBA705C49B4C195C2187E9474FEE050.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_saturn_Auto2.uasset'
+[2018.11.26-17.25.41:220][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_neptune] ([1] browsable assets)...
+[2018.11.26-17.25.41:225][441]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Texture/2k_neptune.2k_neptune]
+[2018.11.26-17.25.41:225][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_neptune]
+[2018.11.26-17.25.41:250][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_neptune_Auto2EFC0921D4CB953B626C734AEC4384A86.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_neptune_Auto2.uasset'
+[2018.11.26-17.25.41:252][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_uranus] ([1] browsable assets)...
+[2018.11.26-17.25.41:257][441]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Texture/2k_uranus.2k_uranus]
+[2018.11.26-17.25.41:257][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_uranus]
+[2018.11.26-17.25.41:281][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_uranus_Auto2E24003CF4600A60DADBBA7874E0CB97B.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_uranus_Auto2.uasset'
+[2018.11.26-17.25.41:282][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_earth_daymap] ([1] browsable assets)...
+[2018.11.26-17.25.41:287][441]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Texture/2k_earth_daymap.2k_earth_daymap]
+[2018.11.26-17.25.41:287][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_earth_daymap]
+[2018.11.26-17.25.41:298][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_earth_daymap_Auto28FEBD35540A7F3CC79A19D8A5E572923.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_earth_daymap_Auto2.uasset'
+[2018.11.26-17.25.41:299][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_earth_nightmap] ([1] browsable assets)...
+[2018.11.26-17.25.41:303][441]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Texture/2k_earth_nightmap.2k_earth_nightmap]
+[2018.11.26-17.25.41:303][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_earth_nightmap]
+[2018.11.26-17.25.41:312][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_earth_nightmap_Auto2CDA3052D40F6E2455CFB3DA9B3C6E979.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_earth_nightmap_Auto2.uasset'
+[2018.11.26-17.25.41:313][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_stars] ([1] browsable assets)...
+[2018.11.26-17.25.41:317][441]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Texture/2k_stars.2k_stars]
+[2018.11.26-17.25.41:317][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_stars]
+[2018.11.26-17.25.41:327][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_stars_Auto23BD229E54D1D7BC93C9451B06901EE1E.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_stars_Auto2.uasset'
+[2018.11.26-17.25.41:329][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_sun] ([1] browsable assets)...
+[2018.11.26-17.25.41:333][441]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Texture/2k_sun.2k_sun]
+[2018.11.26-17.25.41:333][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_sun]
+[2018.11.26-17.25.41:333][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_sun" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_sun_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.11.26-17.25.41:346][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_sun_Auto20AE905EF416CABB7C0777188D0858BBB.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_sun_Auto2.uasset'
+[2018.11.26-17.25.41:347][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_moon] ([1] browsable assets)...
+[2018.11.26-17.25.41:352][441]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Texture/2k_moon.2k_moon]
+[2018.11.26-17.25.41:352][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_moon]
+[2018.11.26-17.25.41:352][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_moon" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_moon_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.11.26-17.25.41:383][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_moon_Auto25E59B7B44EDD511B1AB8488129A0E5FE.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_moon_Auto2.uasset'
+[2018.11.26-17.25.41:385][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_mercury_Mat] ([1] browsable assets)...
+[2018.11.26-17.25.41:426][441]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Texture/2k_mercury_Mat.2k_mercury_Mat]
+[2018.11.26-17.25.41:426][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_mercury_Mat]
+[2018.11.26-17.25.41:889][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_mercury_Mat_Auto27C56F8E04829481BF84314BD2015C291.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_mercury_Mat_Auto2.uasset'
+[2018.11.26-17.25.41:890][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_venus_surface_Mat] ([1] browsable assets)...
+[2018.11.26-17.25.41:920][441]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Texture/2k_venus_surface_Mat.2k_venus_surface_Mat]
+[2018.11.26-17.25.41:920][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_venus_surface_Mat]
+[2018.11.26-17.25.42:071][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_venus_surface_Mat_Auto258375C1347BD3560B7EBF2ABB0565200.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_venus_surface_Mat_Auto2.uasset'
+[2018.11.26-17.25.42:072][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_earth_daymap_Mat] ([1] browsable assets)...
+[2018.11.26-17.25.42:103][441]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Texture/2k_earth_daymap_Mat.2k_earth_daymap_Mat]
+[2018.11.26-17.25.42:103][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_earth_daymap_Mat]
+[2018.11.26-17.25.42:118][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_earth_daymap_Mat_Auto271FDE8F745A875A2DE5BF181C690DC71.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_earth_daymap_Mat_Auto2.uasset'
+[2018.11.26-17.25.42:119][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_mars_Mat] ([1] browsable assets)...
+[2018.11.26-17.25.42:148][441]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Texture/2k_mars_Mat.2k_mars_Mat]
+[2018.11.26-17.25.42:148][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_mars_Mat]
+[2018.11.26-17.25.42:163][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_mars_Mat_Auto22D475E3B40896388ABC695A18B1D53F1.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_mars_Mat_Auto2.uasset'
+[2018.11.26-17.25.42:165][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_jupiter_Mat] ([1] browsable assets)...
+[2018.11.26-17.25.42:195][441]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Texture/2k_jupiter_Mat.2k_jupiter_Mat]
+[2018.11.26-17.25.42:195][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_jupiter_Mat]
+[2018.11.26-17.25.42:210][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_jupiter_Mat_Auto234AA453442B21D4242A57BAF54D602C1.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_jupiter_Mat_Auto2.uasset'
+[2018.11.26-17.25.42:218][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_saturn_Mat] ([1] browsable assets)...
+[2018.11.26-17.25.42:248][441]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Texture/2k_saturn_Mat.2k_saturn_Mat]
+[2018.11.26-17.25.42:248][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_saturn_Mat]
+[2018.11.26-17.25.42:266][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_saturn_Mat_Auto27D55FA8C4DD18F2894C97E92F3536B8F.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_saturn_Mat_Auto2.uasset'
+[2018.11.26-17.25.42:268][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_uranus_Mat] ([1] browsable assets)...
+[2018.11.26-17.25.42:298][441]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Texture/2k_uranus_Mat.2k_uranus_Mat]
+[2018.11.26-17.25.42:298][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_uranus_Mat]
+[2018.11.26-17.25.42:312][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_uranus_Mat_Auto2CE7A80934AD568B06F849DAA084C1D74.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_uranus_Mat_Auto2.uasset'
+[2018.11.26-17.25.42:313][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_neptune_Mat] ([1] browsable assets)...
+[2018.11.26-17.25.42:342][441]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Texture/2k_neptune_Mat.2k_neptune_Mat]
+[2018.11.26-17.25.42:342][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_neptune_Mat]
+[2018.11.26-17.25.42:356][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_neptune_Mat_Auto2905E414F46CF95E7EAB540AC217CB36E.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_neptune_Mat_Auto2.uasset'
+[2018.11.26-17.25.42:358][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_sun_Mat] ([1] browsable assets)...
+[2018.11.26-17.25.42:387][441]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Texture/2k_sun_Mat.2k_sun_Mat]
+[2018.11.26-17.25.42:387][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_sun_Mat]
+[2018.11.26-17.25.42:404][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_sun_Mat_Auto2049ECE8F49D1BD6D7BE931A14F29B2AB.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_sun_Mat_Auto2.uasset'
+[2018.11.26-17.25.42:405][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/2k_earth_nightmap_Mat] ([1] browsable assets)...
+[2018.11.26-17.25.42:434][441]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Texture/2k_earth_nightmap_Mat.2k_earth_nightmap_Mat]
+[2018.11.26-17.25.42:434][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/2k_earth_nightmap_Mat]
+[2018.11.26-17.25.42:447][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_earth_nightmap_Mat_Auto21A5B17D8433A2E7ECCBCEE93D12AF064.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Autosaves/Game/Texture/2k_earth_nightmap_Mat_Auto2.uasset'
+[2018.11.26-17.25.42:448][441]LogFileHelpers: Auto-saving content packages took 1.402
+[2018.11.26-17.26.02:844][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.26.07:497][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.26.34:238][508]LogSlate: Window 'Material Baking Options' being destroyed
+[2018.11.26-17.26.54:128][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.27.23:152][877]Cmd: EDIT COPY
+[2018.11.26-17.27.23:432][910]Cmd: EDIT PASTE
+[2018.11.26-17.27.33:547][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.27.48:199][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.27.49:198][386]LogMaterial: Display: Missing cached shader map for material 2k_moon_Mat, compiling. 
+[2018.11.26-17.27.49:215][386]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-17.27.49:215][386]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-17.27.49:215][386]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-17.28.24:642][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.29.09:601][664]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Mercury)
+[2018.11.26-17.29.09:661][664]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.29.15:430][295]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Mercury)
+[2018.11.26-17.29.15:449][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.29.24:999][392]LogSlate: Window 'Select Path' being destroyed
+[2018.11.26-17.29.25:188][392]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.29.25:191][392]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Mercury_Blueprint.Mercury_Blueprint
+[2018.11.26-17.29.26:862][392]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2018.11.26-17.29.33:368][745]LogSlate: Took 0.009314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.26-17.31.12:949][325]BlueprintLog: New page: Compile Mercury_Blueprint
+[2018.11.26-17.31.16:190][636]LogSlate: Window 'Mercury_Blueprint*' being destroyed
+[2018.11.26-17.31.16:195][636]LogSlate: Window 'Mercury_Blueprint*' being destroyed
+[2018.11.26-17.31.25:482][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.31.27:911][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.11.26-17.31.27:924][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-17.31.28:020][997]PIE: New page: SIE session: Untitled_1 (Nov 26, 2018, 1:31:27 PM)
+[2018.11.26-17.31.28:155][997]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.11.26-17.31.28:170][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015065s)
+[2018.11.26-17.31.28:170][997]LogAIModule: Creating AISystem for world Untitled_1
+[2018.11.26-17.31.28:181][997]LogPlayLevel: PIE: World Init took: (0.011385s)
+[2018.11.26-17.31.28:181][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.026760s)
+[2018.11.26-17.31.28:273][997]LogInit: XAudio2 using 'Fone de ouvido do headset (2- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.26-17.31.28:308][997]LogInit: FAudioDevice initialized.
+[2018.11.26-17.31.28:390][997]LogLoad: Game class is 'GameModeBase'
+[2018.11.26-17.31.28:508][997]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.11.26-15.31.28
+[2018.11.26-17.31.28:530][997]LogWorld: Bringing up level for play took: 0.022971
+[2018.11.26-17.31.28:601][997]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-17.31.28:765][997]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2018.11.26-17.31.28:810][997]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.146
+[2018.11.26-17.31.29:156][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.11.26-17.31.39:579][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.31.39:622][126]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.11.26-17.31.39:644][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.31.39:705][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-17.31.39:706][126]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.11.26-17.31.39:787][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.31.39:907][127]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.11.26-17.31.43:733][567]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Mercury_Blueprint.Mercury_Blueprint
+[2018.11.26-17.31.52:976][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mercury_Blueprint" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Mercury_Blueprint.uasset" SILENT=true
+[2018.11.26-17.31.53:044][597]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Mercury_Blueprint14977179413B1F0BFDE7F8BCF2A1D2B8.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Mercury_Blueprint.uasset'
+[2018.11.26-17.31.55:620][897]LogTemp: Repeating last play command: Simulate
+[2018.11.26-17.31.55:624][897]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.11.26-17.31.55:624][897]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.26-17.31.55:626][897]LogPlayLevel: [PlayLevel] Compiling Mercury_Blueprint before play...
+[2018.11.26-17.31.55:791][897]LogPlayLevel: PlayLevel: Blueprint regeneration took 165 ms (1 blueprints)
+[2018.11.26-17.31.55:791][897]PIE: New page: SIE session: Untitled_1 (Nov 26, 2018, 1:31:55 PM)
+[2018.11.26-17.31.55:791][897]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.11.26-17.31.55:793][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002119s)
+[2018.11.26-17.31.55:794][897]LogAIModule: Creating AISystem for world Untitled_1
+[2018.11.26-17.31.55:794][897]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2018.11.26-17.31.55:794][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003045s)
+[2018.11.26-17.31.55:833][897]LogInit: XAudio2 using 'Fone de ouvido do headset (2- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.26-17.31.55:843][897]LogInit: FAudioDevice initialized.
+[2018.11.26-17.31.55:875][897]LogLoad: Game class is 'GameModeBase'
+[2018.11.26-17.31.55:876][897]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.11.26-15.31.55
+[2018.11.26-17.31.55:876][897]LogWorld: Bringing up level for play took: 0.000695
+[2018.11.26-17.31.55:888][897]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-17.31.55:889][897]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.225
+[2018.11.26-17.31.55:907][897]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.11.26-17.31.57:585][ 77]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.11.26-17.31.57:585][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.31.57:621][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-17.31.57:621][ 77]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.11.26-17.31.57:655][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.31.57:686][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.11.26-17.32.40:317][872]BlueprintLog: New page: Compile Mercury_Blueprint
+[2018.11.26-17.32.47:401][545]LogSlate: Window 'Mercury_Blueprint*' being destroyed
+[2018.11.26-17.32.47:404][545]LogSlate: Window 'Mercury_Blueprint*' being destroyed
+[2018.11.26-17.32.49:022][732]LogTemp: Repeating last play command: Simulate
+[2018.11.26-17.32.49:025][732]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.11.26-17.32.49:026][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-17.32.49:026][732]PIE: New page: SIE session: Untitled_1 (Nov 26, 2018, 1:32:49 PM)
+[2018.11.26-17.32.49:026][732]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.11.26-17.32.49:028][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001855s)
+[2018.11.26-17.32.49:028][732]LogAIModule: Creating AISystem for world Untitled_1
+[2018.11.26-17.32.49:028][732]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2018.11.26-17.32.49:028][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002534s)
+[2018.11.26-17.32.49:066][732]LogInit: XAudio2 using 'Fone de ouvido do headset (2- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.26-17.32.49:075][732]LogInit: FAudioDevice initialized.
+[2018.11.26-17.32.49:106][732]LogLoad: Game class is 'GameModeBase'
+[2018.11.26-17.32.49:107][732]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.11.26-15.32.49
+[2018.11.26-17.32.49:107][732]LogWorld: Bringing up level for play took: 0.000717
+[2018.11.26-17.32.49:119][732]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-17.32.49:120][732]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.543
+[2018.11.26-17.32.49:122][732]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.11.26-17.32.53:725][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.32.53:782][252]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.11.26-17.32.53:783][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.32.53:815][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-17.32.53:816][252]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2018.11.26-17.32.53:848][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.32.53:887][256]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.11.26-17.32.55:453][443]LogEditorViewport: Clicking on Actor (LMB): Mercury_Blueprint_C (Mercury_Blueprint)
+[2018.11.26-17.33.10:094][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.33.10:199][194]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Mercury_Blueprint.Mercury_Blueprint
+[2018.11.26-17.33.17:980][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mercury_Blueprint" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Mercury_Blueprint.uasset" SILENT=true
+[2018.11.26-17.33.17:999][903]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Mercury_Blueprint06D75D534E50497414B059910BFF2EF0.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Mercury_Blueprint.uasset'
+[2018.11.26-17.33.19:138][ 13]LogSlate: Window 'Mercury_Blueprint' being destroyed
+[2018.11.26-17.33.19:142][ 13]LogSlate: Window 'Mercury_Blueprint' being destroyed
+[2018.11.26-17.33.25:216][725]LogSlate: Window 'Select Path' being destroyed
+[2018.11.26-17.33.25:285][725]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Venus_Blueprint.Venus_Blueprint
+[2018.11.26-17.34.02:935][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Venus_Blueprint" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Venus_Blueprint.uasset" SILENT=true
+[2018.11.26-17.34.02:954][618]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Venus_Blueprint1707B13E400D94BADE35E98A89A0F123.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Venus_Blueprint.uasset'
+[2018.11.26-17.34.04:351][769]LogSlate: Window 'Venus_Blueprint' being destroyed
+[2018.11.26-17.34.04:354][769]LogSlate: Window 'Venus_Blueprint' being destroyed
+[2018.11.26-17.34.07:560][134]LogEditorViewport: Clicking Background
+[2018.11.26-17.34.08:467][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.34.09:912][409]LogEditorViewport: Clicking Background
+[2018.11.26-17.34.10:912][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.34.13:304][807]LogSlate: Window 'Select Path' being destroyed
+[2018.11.26-17.34.13:373][807]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Earth_Blueprint.Earth_Blueprint
+[2018.11.26-17.34.27:132][180]BlueprintLog: New page: Compile Earth_Blueprint
+[2018.11.26-17.34.27:802][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth_Blueprint" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Earth_Blueprint.uasset" SILENT=true
+[2018.11.26-17.34.27:822][224]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Earth_Blueprint8AECC5CE485D51AB8D3B6FA9AFE7D157.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Earth_Blueprint.uasset'
+[2018.11.26-17.34.28:798][327]LogSlate: Window 'Earth_Blueprint' being destroyed
+[2018.11.26-17.34.28:802][327]LogSlate: Window 'Earth_Blueprint' being destroyed
+[2018.11.26-17.34.41:885][330]LogSlate: Window 'Select Path' being destroyed
+[2018.11.26-17.34.41:961][330]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/moon_Blueprint.moon_Blueprint
+[2018.11.26-17.35.04:334][575]BlueprintLog: New page: Compile moon_Blueprint
+[2018.11.26-17.35.05:457][666]LogSlate: Window 'moon_Blueprint*' being destroyed
+[2018.11.26-17.35.05:461][666]LogSlate: Window 'moon_Blueprint*' being destroyed
+[2018.11.26-17.35.22:276][661]LogSlate: Window 'Select Path' being destroyed
+[2018.11.26-17.35.22:345][661]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Mars_Blueprint.Mars_Blueprint
+[2018.11.26-17.35.47:174][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mars_Blueprint" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Mars_Blueprint.uasset" SILENT=true
+[2018.11.26-17.35.47:194][349]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Mars_Blueprint4296D87841CA64EAA6F0C7AF427BDA02.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Mars_Blueprint.uasset'
+[2018.11.26-17.35.48:003][433]BlueprintLog: New page: Compile Mars_Blueprint
+[2018.11.26-17.35.49:517][565]LogSlate: Window 'Mars_Blueprint' being destroyed
+[2018.11.26-17.35.49:522][565]LogSlate: Window 'Mars_Blueprint' being destroyed
+[2018.11.26-17.36.01:947][210]LogEditorViewport: Clicking Background
+[2018.11.26-17.36.02:340][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.36.05:242][595]LogSlate: Window 'Select Path' being destroyed
+[2018.11.26-17.36.05:309][595]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Saturn_Blueprint.Saturn_Blueprint
+[2018.11.26-17.36.20:002][ 48]BlueprintLog: New page: Compile Saturn_Blueprint
+[2018.11.26-17.36.21:111][139]LogSlate: Window 'Saturn_Blueprint*' being destroyed
+[2018.11.26-17.36.21:115][139]LogSlate: Window 'Saturn_Blueprint*' being destroyed
+[2018.11.26-17.36.25:522][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.36.30:309][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.36.38:407][582]LogSlate: Window 'Select Path' being destroyed
+[2018.11.26-17.36.38:475][582]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Jupter_Blueprint.Jupter_Blueprint
+[2018.11.26-17.36.51:493][869]BlueprintLog: New page: Compile Jupter_Blueprint
+[2018.11.26-17.36.52:669][971]LogSlate: Window 'Jupter_Blueprint*' being destroyed
+[2018.11.26-17.36.52:674][971]LogSlate: Window 'Jupter_Blueprint*' being destroyed
+[2018.11.26-17.37.12:973][762]LogSlate: Window 'Select Path' being destroyed
+[2018.11.26-17.37.13:044][762]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Uranus_Blueprint.Uranus_Blueprint
+[2018.11.26-17.37.30:399][501]BlueprintLog: New page: Compile Uranus_Blueprint
+[2018.11.26-17.37.31:426][579]LogSlate: Window 'Uranus_Blueprint*' being destroyed
+[2018.11.26-17.37.31:430][579]LogSlate: Window 'Uranus_Blueprint*' being destroyed
+[2018.11.26-17.37.36:169][129]LogSlate: Window 'Select Path' being destroyed
+[2018.11.26-17.37.36:237][129]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Neptune_Blueprint.Neptune_Blueprint
+[2018.11.26-17.38.03:880][970]BlueprintLog: New page: Compile Neptune_Blueprint
+[2018.11.26-17.38.05:447][112]LogSlate: Window 'Neptune_Blueprint*' being destroyed
+[2018.11.26-17.38.05:451][112]LogSlate: Window 'Neptune_Blueprint*' being destroyed
+[2018.11.26-17.38.14:338][529]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.26-17.38.14:604][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.26-17.38.14:783][529]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/spaceD4A3808848AEA92BF2B032B1F299B171.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap'
+[2018.11.26-17.38.14:801][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space_BuiltData" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset" SILENT=true
+[2018.11.26-17.38.14:831][529]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/space_BuiltData92F3D2F3476ED9D0C9FF269E590C0CC1.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset'
+[2018.11.26-17.38.14:841][529]LogFileHelpers: Saving map 'space' took 0.426
+[2018.11.26-17.38.16:308][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.26-17.38.16:508][679]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/spaceA71B05124ECEB0A7E85A76ADAA766334.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap'
+[2018.11.26-17.38.16:521][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space_BuiltData" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset" SILENT=true
+[2018.11.26-17.38.16:533][679]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/space_BuiltDataA838FF5B437C26D2BCFE33B6BEA960D1.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset'
+[2018.11.26-17.38.19:031][953]LogTemp: Repeating last play command: Simulate
+[2018.11.26-17.38.19:035][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.38.19:035][953]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.26-17.38.19:037][953]LogPlayLevel: [PlayLevel] Compiling Mercury_Blueprint before play...
+[2018.11.26-17.38.19:153][953]LogPlayLevel: [PlayLevel] Compiling Venus_Blueprint before play...
+[2018.11.26-17.38.19:307][953]LogPlayLevel: PlayLevel: Blueprint regeneration took 271 ms (2 blueprints)
+[2018.11.26-17.38.19:307][953]PIE: New page: SIE session: space (Nov 26, 2018, 1:38:19 PM)
+[2018.11.26-17.38.19:307][953]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_space
+[2018.11.26-17.38.19:309][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001663s)
+[2018.11.26-17.38.19:309][953]LogAIModule: Creating AISystem for world space
+[2018.11.26-17.38.19:310][953]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.11.26-17.38.19:310][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/space.space to /Game/UEDPIE_0_space.space (0.002728s)
+[2018.11.26-17.38.19:348][953]LogInit: XAudio2 using 'Fone de ouvido do headset (2- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.26-17.38.19:365][953]LogInit: FAudioDevice initialized.
+[2018.11.26-17.38.19:401][953]LogLoad: Game class is 'GameModeBase'
+[2018.11.26-17.38.19:402][953]LogWorld: Bringing World /Game/UEDPIE_0_space.space up for play (max tick rate 0) at 2018.11.26-15.38.19
+[2018.11.26-17.38.19:402][953]LogWorld: Bringing up level for play took: 0.000777
+[2018.11.26-17.38.19:414][953]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-17.38.19:416][953]PIE: Play in editor start time for /Game/UEDPIE_0_space -0.248
+[2018.11.26-17.38.19:435][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.38.26:950][768]LogEditorViewport: Clicking on Actor (LMB): moon_Blueprint_C (moon_Blueprint)
+[2018.11.26-17.38.27:958][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.38.33:607][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.38.44:556][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.38.44:615][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.38.44:616][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.38.44:652][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-17.38.44:652][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.38.44:685][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.38.44:716][683]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.11.26-17.38.45:718][802]LogEditorViewport: Clicking on Actor (LMB): Neptune_Blueprint_C (Neptune_Blueprint)
+[2018.11.26-17.38.47:003][950]LogEditorViewport: Clicking on Actor (LMB): Uranus_Blueprint_C (Uranus_Blueprint)
+[2018.11.26-17.38.47:945][ 57]LogEditorViewport: Clicking on Actor (LMB): Neptune_Blueprint_C (Neptune_Blueprint)
+[2018.11.26-17.38.48:897][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.38.54:978][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.39.00:488][401]LogEditorViewport: Clicking Background
+[2018.11.26-17.39.01:621][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.39.01:706][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.26-17.39.01:871][544]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/space07F802304A20B28734921E8D651DE074.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap'
+[2018.11.26-17.39.01:884][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space_BuiltData" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset" SILENT=true
+[2018.11.26-17.39.01:895][544]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/space_BuiltDataB6D75181460F1593CD2FDEB5F317BB9D.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset'
+[2018.11.26-17.40.22:731][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.40.25:720][726]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Earth_Blueprint.Earth_Blueprint
+[2018.11.26-17.40.33:260][181]LogEditorViewport: Clicking Background
+[2018.11.26-17.40.43:617][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.41.22:044][933]LogEditorViewport: Clicking on Actor (LMB): Saturn_Blueprint_C (Saturn_Blueprint)
+[2018.11.26-17.41.23:539][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.41.33:440][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.41.36:615][865]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.43.21:716][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth_Blueprint" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Earth_Blueprint.uasset" SILENT=true
+[2018.11.26-17.43.21:739][637]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Earth_Blueprint808950344AD49D54D590A09A5CF424C4.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Earth_Blueprint.uasset'
+[2018.11.26-17.43.32:082][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.43.32:132][596]LogSlate: Window 'Earth_Blueprint' being destroyed
+[2018.11.26-17.43.32:135][596]LogSlate: Window 'Earth_Blueprint' being destroyed
+[2018.11.26-17.43.35:171][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.43.35:287][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.26-17.43.35:455][961]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/space87F1ADF7455D9307FA37F48DE14893C0.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap'
+[2018.11.26-17.43.35:468][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space_BuiltData" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset" SILENT=true
+[2018.11.26-17.43.35:480][961]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/space_BuiltData0AA47FF842039BC6B2A5EE9B8914ADC7.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset'
+[2018.11.26-17.43.36:187][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.43.36:263][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.26-17.43.36:430][ 40]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/spaceCFAA8E32403162C8A81410AA16ED0045.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap'
+[2018.11.26-17.43.36:443][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space_BuiltData" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset" SILENT=true
+[2018.11.26-17.43.36:453][ 40]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/space_BuiltData9425060049DA21E4F018D39966196B0E.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset'
+[2018.11.26-17.43.46:084][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.44.10:628][ 67]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Earth_Blueprint.Earth_Blueprint
+[2018.11.26-17.45.14:110][652]LogSlate: Took 0.009986 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.26-17.47.04:115][375]EditorErrors: New page: Actor attachment
+[2018.11.26-17.47.07:953][830]LogEditorViewport: Clicking Background
+[2018.11.26-17.47.10:959][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.47.14:379][587]EditorErrors: New page: Actor attachment
+[2018.11.26-17.47.19:140][140]EditorErrors: New page: Actor attachment
+[2018.11.26-17.47.56:034][429]LogSlate: Window 'Tutorials' being destroyed
+[2018.11.26-17.49.01:825][979]LogSlate: Window 'Earth_Blueprint*' being destroyed
+[2018.11.26-17.49.01:830][979]LogSlate: Window 'Earth_Blueprint*' being destroyed
+[2018.11.26-17.49.03:778][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.26-17.49.03:951][180]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/spaceB0BF0AC841DA65B6FD6F8587ADB8837F.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap'
+[2018.11.26-17.49.03:964][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space_BuiltData" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset" SILENT=true
+[2018.11.26-17.49.03:975][180]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/space_BuiltData8C5FA2174C8C9A891442B790C9389908.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset'
+[2018.11.26-17.49.05:425][323]LogTemp: Repeating last play command: Simulate
+[2018.11.26-17.49.05:432][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.49.05:432][323]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.26-17.49.05:434][323]LogPlayLevel: [PlayLevel] Compiling Earth_Blueprint before play...
+[2018.11.26-17.49.05:584][323]LogPlayLevel: PlayLevel: Blueprint regeneration took 151 ms (1 blueprints)
+[2018.11.26-17.49.05:584][323]PIE: New page: SIE session: space (Nov 26, 2018, 1:49:05 PM)
+[2018.11.26-17.49.05:584][323]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_space
+[2018.11.26-17.49.05:586][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001805s)
+[2018.11.26-17.49.05:587][323]LogAIModule: Creating AISystem for world space
+[2018.11.26-17.49.05:587][323]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.11.26-17.49.05:587][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/space.space to /Game/UEDPIE_0_space.space (0.002694s)
+[2018.11.26-17.49.05:625][323]LogInit: XAudio2 using 'Fone de ouvido do headset (2- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.26-17.49.05:634][323]LogInit: FAudioDevice initialized.
+[2018.11.26-17.49.05:670][323]LogLoad: Game class is 'GameModeBase'
+[2018.11.26-17.49.05:687][323]LogWorld: Bringing World /Game/UEDPIE_0_space.space up for play (max tick rate 0) at 2018.11.26-15.49.05
+[2018.11.26-17.49.05:687][323]LogWorld: Bringing up level for play took: 0.016017
+[2018.11.26-17.49.05:699][323]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-17.49.05:700][323]PIE: Play in editor start time for /Game/UEDPIE_0_space 0.037
+[2018.11.26-17.49.05:719][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.49.20:479][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.49.21:946][893]EditorErrors: New page: Actor attachment
+[2018.11.26-17.49.26:528][377]EditorErrors: New page: Actor attachment
+[2018.11.26-17.49.27:282][438]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.49.28:921][595]EditorErrors: New page: Actor attachment
+[2018.11.26-17.49.30:270][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.49.30:884][756]LogEditorViewport: Clicking Background
+[2018.11.26-17.49.32:693][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.49.32:769][932]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.49.32:769][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.49.32:799][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-17.49.32:800][932]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.49.32:831][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.49.32:872][936]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.11.26-17.49.34:800][158]EditorErrors: New page: Actor attachment
+[2018.11.26-17.49.36:109][295]LogTemp: Repeating last play command: Simulate
+[2018.11.26-17.49.36:114][295]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.49.36:114][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-17.49.36:114][295]PIE: New page: SIE session: space (Nov 26, 2018, 1:49:36 PM)
+[2018.11.26-17.49.36:114][295]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_space
+[2018.11.26-17.49.36:116][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001623s)
+[2018.11.26-17.49.36:116][295]LogAIModule: Creating AISystem for world space
+[2018.11.26-17.49.36:117][295]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2018.11.26-17.49.36:117][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/space.space to /Game/UEDPIE_0_space.space (0.002392s)
+[2018.11.26-17.49.36:155][295]LogInit: XAudio2 using 'Fone de ouvido do headset (2- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.26-17.49.36:162][295]LogInit: FAudioDevice initialized.
+[2018.11.26-17.49.36:196][295]LogLoad: Game class is 'GameModeBase'
+[2018.11.26-17.49.36:198][295]LogWorld: Bringing World /Game/UEDPIE_0_space.space up for play (max tick rate 0) at 2018.11.26-15.49.36
+[2018.11.26-17.49.36:198][295]LogWorld: Bringing up level for play took: 0.000925
+[2018.11.26-17.49.36:209][295]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-17.49.36:220][295]PIE: Play in editor start time for /Game/UEDPIE_0_space 0.556
+[2018.11.26-17.49.36:238][295]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.49.43:023][103]EditorErrors: New page: Actor attachment
+[2018.11.26-17.49.49:168][829]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.49.49:168][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.49.49:202][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-17.49.49:202][829]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.49.49:234][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.49.49:274][833]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.11.26-17.50.01:073][142]LogEditorViewport: Clicking Background
+[2018.11.26-17.50.05:836][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.50.05:886][716]LogTemp: Repeating last play command: Simulate
+[2018.11.26-17.50.05:891][716]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.50.05:891][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-17.50.05:891][716]PIE: New page: SIE session: space (Nov 26, 2018, 1:50:05 PM)
+[2018.11.26-17.50.05:891][716]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_space
+[2018.11.26-17.50.05:893][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001993s)
+[2018.11.26-17.50.05:894][716]LogAIModule: Creating AISystem for world space
+[2018.11.26-17.50.05:894][716]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2018.11.26-17.50.05:894][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/space.space to /Game/UEDPIE_0_space.space (0.002878s)
+[2018.11.26-17.50.05:927][716]LogInit: XAudio2 using 'Fone de ouvido do headset (2- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.26-17.50.05:936][716]LogInit: FAudioDevice initialized.
+[2018.11.26-17.50.05:969][716]LogLoad: Game class is 'GameModeBase'
+[2018.11.26-17.50.05:971][716]LogWorld: Bringing World /Game/UEDPIE_0_space.space up for play (max tick rate 0) at 2018.11.26-15.50.05
+[2018.11.26-17.50.05:971][716]LogWorld: Bringing up level for play took: 0.000782
+[2018.11.26-17.50.05:983][716]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-17.50.05:984][716]PIE: Play in editor start time for /Game/UEDPIE_0_space 0.32
+[2018.11.26-17.50.05:986][716]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.50.18:687][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.50.18:763][140]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.50.18:763][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.50.18:795][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-17.50.18:796][140]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.50.18:829][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.50.18:862][143]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.11.26-17.50.21:210][414]EditorErrors: New page: Actor attachment
+[2018.11.26-17.50.22:497][549]LogTemp: Repeating last play command: Simulate
+[2018.11.26-17.50.22:502][549]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.50.22:502][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-17.50.22:502][549]PIE: New page: SIE session: space (Nov 26, 2018, 1:50:22 PM)
+[2018.11.26-17.50.22:502][549]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_space
+[2018.11.26-17.50.22:504][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001681s)
+[2018.11.26-17.50.22:504][549]LogAIModule: Creating AISystem for world space
+[2018.11.26-17.50.22:505][549]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2018.11.26-17.50.22:505][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/space.space to /Game/UEDPIE_0_space.space (0.002452s)
+[2018.11.26-17.50.22:539][549]LogInit: XAudio2 using 'Fone de ouvido do headset (2- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.26-17.50.22:548][549]LogInit: FAudioDevice initialized.
+[2018.11.26-17.50.22:580][549]LogLoad: Game class is 'GameModeBase'
+[2018.11.26-17.50.22:581][549]LogWorld: Bringing World /Game/UEDPIE_0_space.space up for play (max tick rate 0) at 2018.11.26-15.50.22
+[2018.11.26-17.50.22:582][549]LogWorld: Bringing up level for play took: 0.000692
+[2018.11.26-17.50.22:594][549]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-17.50.22:595][549]PIE: Play in editor start time for /Game/UEDPIE_0_space 0.931
+[2018.11.26-17.50.22:614][549]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.50.29:386][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.50.29:386][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.50.29:418][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-17.50.29:419][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.50.29:451][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.50.29:488][269]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.11.26-17.50.31:089][453]EditorErrors: New page: Actor attachment
+[2018.11.26-17.50.34:402][797]LogTemp: Repeating last play command: Simulate
+[2018.11.26-17.50.34:407][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.50.34:407][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-17.50.34:407][797]PIE: New page: SIE session: space (Nov 26, 2018, 1:50:34 PM)
+[2018.11.26-17.50.34:407][797]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_space
+[2018.11.26-17.50.34:409][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001671s)
+[2018.11.26-17.50.34:410][797]LogAIModule: Creating AISystem for world space
+[2018.11.26-17.50.34:410][797]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2018.11.26-17.50.34:410][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/space.space to /Game/UEDPIE_0_space.space (0.002694s)
+[2018.11.26-17.50.34:447][797]LogInit: XAudio2 using 'Fone de ouvido do headset (2- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.26-17.50.34:456][797]LogInit: FAudioDevice initialized.
+[2018.11.26-17.50.34:491][797]LogLoad: Game class is 'GameModeBase'
+[2018.11.26-17.50.34:492][797]LogWorld: Bringing World /Game/UEDPIE_0_space.space up for play (max tick rate 0) at 2018.11.26-15.50.34
+[2018.11.26-17.50.34:492][797]LogWorld: Bringing up level for play took: 0.000741
+[2018.11.26-17.50.34:504][797]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.26-17.50.34:505][797]PIE: Play in editor start time for /Game/UEDPIE_0_space 0.841
+[2018.11.26-17.50.34:523][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.50.39:447][372]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.50.40:045][441]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Sun)
+[2018.11.26-17.50.40:083][441]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-17.50.40:869][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sun)
+[2018.11.26-17.50.41:700][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.50.48:628][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.50.53:833][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.52.06:302][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-17.52.06:373][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.26-17.52.06:557][374]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/spaceA171F5D846A762B3905D8699CE74347C.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap'
+[2018.11.26-17.52.06:570][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space_BuiltData" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset" SILENT=true
+[2018.11.26-17.52.06:581][374]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/space_BuiltDataE6B5A4CF4417DAF9FFD80D99E7A39413.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset'
+[2018.11.26-17.52.07:227][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.26-17.52.07:393][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/space905216C2485F7FC34D3B59A780032E6C.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space.umap'
+[2018.11.26-17.52.07:406][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/space_BuiltData" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset" SILENT=true
+[2018.11.26-17.52.07:416][441]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/space_BuiltData8CC5583D403811E04160AD9286D060E3.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/space_BuiltData.uasset'
+[2018.11.26-17.52.09:901][528]LogSlate: Window 'Save Content' being destroyed
+[2018.11.26-17.52.09:928][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth_Blueprint" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Earth_Blueprint.uasset" SILENT=true
+[2018.11.26-17.52.09:949][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Earth_Blueprint5AAA660E4E0E5ED6FBEB99AE2DACC245.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Earth_Blueprint.uasset'
+[2018.11.26-17.52.09:965][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jupter_Blueprint" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Jupter_Blueprint.uasset" SILENT=true
+[2018.11.26-17.52.09:984][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Jupter_Blueprint8ADE07864B7C427AD9AB44B457BFF911.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Jupter_Blueprint.uasset'
+[2018.11.26-17.52.10:000][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/moon_Blueprint" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/moon_Blueprint.uasset" SILENT=true
+[2018.11.26-17.52.10:020][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/moon_BlueprintC3A1F8CB408B71D9E4EC298310B0EC65.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/moon_Blueprint.uasset'
+[2018.11.26-17.52.10:039][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Neptune_Blueprint" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Neptune_Blueprint.uasset" SILENT=true
+[2018.11.26-17.52.10:059][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Neptune_Blueprint9BDD6A004FD9B85F1E4C4595E665AD6C.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Neptune_Blueprint.uasset'
+[2018.11.26-17.52.10:075][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Saturn_Blueprint" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Saturn_Blueprint.uasset" SILENT=true
+[2018.11.26-17.52.10:093][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Saturn_Blueprint8F89B1B6462F7ACEE47D78A878CA134D.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Saturn_Blueprint.uasset'
+[2018.11.26-17.52.10:096][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_earth_daymap" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_earth_daymap.uasset" SILENT=true
+[2018.11.26-17.52.10:298][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_earth_daymap05C2B5BD4B9E15077902ECA83B730825.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_earth_daymap.uasset'
+[2018.11.26-17.52.10:300][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_earth_daymap_Mat" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_earth_daymap_Mat.uasset" SILENT=true
+[2018.11.26-17.52.10:303][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_earth_daymap_Mat82E2576A41DBC49EA94FE1B81F22540B.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_earth_daymap_Mat.uasset'
+[2018.11.26-17.52.10:305][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_earth_nightmap" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_earth_nightmap.uasset" SILENT=true
+[2018.11.26-17.52.10:465][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_earth_nightmapBB7677764457FF94BAE3E896E0961E7C.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_earth_nightmap.uasset'
+[2018.11.26-17.52.10:467][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_earth_nightmap_Mat" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_earth_nightmap_Mat.uasset" SILENT=true
+[2018.11.26-17.52.10:470][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_earth_nightmap_Mat244540E541E7B8DF1043E588FD6034BD.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_earth_nightmap_Mat.uasset'
+[2018.11.26-17.52.10:472][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_jupiter" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_jupiter.uasset" SILENT=true
+[2018.11.26-17.52.10:755][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_jupiter15A5261D4186FFC2E14B62BF41FEF5CB.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_jupiter.uasset'
+[2018.11.26-17.52.10:757][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_jupiter_Mat" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_jupiter_Mat.uasset" SILENT=true
+[2018.11.26-17.52.10:761][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_jupiter_Mat84ECB4354D43B4094DACE8865A86B0D2.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_jupiter_Mat.uasset'
+[2018.11.26-17.52.10:763][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_mars" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_mars.uasset" SILENT=true
+[2018.11.26-17.52.11:098][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_mars97B9375F412FFE3667B8B6AF29988E1B.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_mars.uasset'
+[2018.11.26-17.52.11:100][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_mars_Mat" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_mars_Mat.uasset" SILENT=true
+[2018.11.26-17.52.11:103][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_mars_Mat633AE9994CE271711B20F2B513120A46.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_mars_Mat.uasset'
+[2018.11.26-17.52.11:106][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_mercury" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_mercury.uasset" SILENT=true
+[2018.11.26-17.52.11:361][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_mercury91975D284C59FDA7E14062A52B74D227.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_mercury.uasset'
+[2018.11.26-17.52.11:363][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_mercury_Mat" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_mercury_Mat.uasset" SILENT=true
+[2018.11.26-17.52.11:366][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_mercury_Mat4BF96DE443F97437D2B87AA18733E021.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_mercury_Mat.uasset'
+[2018.11.26-17.52.11:368][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_moon" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_moon.uasset" SILENT=true
+[2018.11.26-17.52.11:663][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_moon9DA0A29A4DB8E5972BD2E99ED30F78B5.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_moon.uasset'
+[2018.11.26-17.52.11:680][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_moon_Mat" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_moon_Mat.uasset" SILENT=true
+[2018.11.26-17.52.11:707][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_moon_Mat9EC07B1244E596DE1B375197D1DA81F8.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_moon_Mat.uasset'
+[2018.11.26-17.52.11:709][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_neptune" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_neptune.uasset" SILENT=true
+[2018.11.26-17.52.11:867][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_neptune3C8DCDA240150B4479B5F3B8323383FF.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_neptune.uasset'
+[2018.11.26-17.52.11:869][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_neptune_Mat" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_neptune_Mat.uasset" SILENT=true
+[2018.11.26-17.52.11:873][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_neptune_MatE0FDC7184595D366A88F4183DC0836C9.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_neptune_Mat.uasset'
+[2018.11.26-17.52.11:877][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_saturn" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_saturn.uasset" SILENT=true
+[2018.11.26-17.52.12:031][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_saturn86BD43984233C0400633DC81B55CB235.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_saturn.uasset'
+[2018.11.26-17.52.12:033][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_saturn_Mat" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_saturn_Mat.uasset" SILENT=true
+[2018.11.26-17.52.12:037][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_saturn_Mat6B1E4C7B47DB3A790FB99496C8EF9D50.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_saturn_Mat.uasset'
+[2018.11.26-17.52.12:040][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_stars" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_stars.uasset" SILENT=true
+[2018.11.26-17.52.12:172][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_stars420C68D44664345E65374B98DC09A97A.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_stars.uasset'
+[2018.11.26-17.52.12:174][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_sun" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_sun.uasset" SILENT=true
+[2018.11.26-17.52.12:524][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_sun1203AA81407D311CC7808B9747F53B15.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_sun.uasset'
+[2018.11.26-17.52.12:527][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_sun_Mat" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_sun_Mat.uasset" SILENT=true
+[2018.11.26-17.52.12:555][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_sun_Mat5806DB4E433286AD32CB468E381D58AB.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_sun_Mat.uasset'
+[2018.11.26-17.52.12:557][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_uranus" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_uranus.uasset" SILENT=true
+[2018.11.26-17.52.12:640][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_uranus3DD630E24BFA60BAAA786A8A33B9FB80.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_uranus.uasset'
+[2018.11.26-17.52.12:641][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_uranus_Mat" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_uranus_Mat.uasset" SILENT=true
+[2018.11.26-17.52.12:645][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_uranus_MatE9F1A17D4AE830D04894BBA70079A9DF.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_uranus_Mat.uasset'
+[2018.11.26-17.52.12:647][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_venus_surface" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_venus_surface.uasset" SILENT=true
+[2018.11.26-17.52.12:965][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_venus_surface9C8CFFCD40AE9AD772F803AC6FBC30C4.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_venus_surface.uasset'
+[2018.11.26-17.52.12:967][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/2k_venus_surface_Mat" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_venus_surface_Mat.uasset" SILENT=true
+[2018.11.26-17.52.12:971][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/2k_venus_surface_Mat13F790814AC4AD5AE6188E8CC3F5D285.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Texture/2k_venus_surface_Mat.uasset'
+[2018.11.26-17.52.13:003][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Uranus_Blueprint" FILE="../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Uranus_Blueprint.uasset" SILENT=true
+[2018.11.26-17.52.13:022][528]LogSavePackage: Moving '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Saved/Uranus_Blueprint6DF0A40E4847373AD6563094BA27C0DB.tmp' to '../../../../../../Users/Senice/Documents/Unreal Projects/Espaco2/Content/Uranus_Blueprint.uasset'
+[2018.11.26-17.52.13:127][528]LogSlate: Window 'Espaco2 - Unreal Editor' being destroyed
+[2018.11.26-17.52.13:197][528]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.52.13:198][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.52.13:234][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-17.52.13:234][528]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/space.space:PersistentLevel' has LevelScriptBlueprint '/Game/space.space:PersistentLevel.space' with GeneratedClass '/Game/space.space_C' with ClassGeneratedBy '/Game/space.space:PersistentLevel.space'
+[2018.11.26-17.52.13:268][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-17.52.13:639][529]Cmd: QUIT_EDITOR
+[2018.11.26-17.52.14:905][529]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.26-17.52.14:973][529]LogExit: Preparing to exit.
+[2018.11.26-17.52.16:250][529]LogExit: Editor shut down
+[2018.11.26-17.52.16:251][529]LogExit: Transaction tracking system shut down
+[2018.11.26-17.52.18:065][529]LogExit: Object subsystem successfully closed.
+[2018.11.26-17.52.18:312][529]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.26-17.52.18:333][529]LogD3D11RHI: Shutdown
+[2018.11.26-17.52.18:333][529]LogD3D11RHI: CleanupD3DDevice
+[2018.11.26-17.52.18:405][529]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.26-17.52.19:743][529]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2018.11.26-17.52.19:743][529]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2018.11.26-17.52.19:753][529]LogModuleManager: Shutting down and abandoning module BlueprintGraph (626)
+[2018.11.26-17.52.19:753][529]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2018.11.26-17.52.19:753][529]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2018.11.26-17.52.19:753][529]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2018.11.26-17.52.19:783][529]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2018.11.26-17.52.19:783][529]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2018.11.26-17.52.19:783][529]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2018.11.26-17.52.19:796][529]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2018.11.26-17.52.19:800][529]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.11.26-17.52.19:806][529]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2018.11.26-17.52.19:814][529]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2018.11.26-17.52.19:865][529]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2018.11.26-17.52.19:876][529]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2018.11.26-17.52.19:877][529]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2018.11.26-17.52.19:877][529]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2018.11.26-17.52.19:877][529]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2018.11.26-17.52.19:877][529]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2018.11.26-17.52.19:877][529]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2018.11.26-17.52.19:886][529]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2018.11.26-17.52.19:895][529]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2018.11.26-17.52.19:895][529]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2018.11.26-17.52.19:895][529]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2018.11.26-17.52.19:896][529]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2018.11.26-17.52.19:957][529]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2018.11.26-17.52.19:957][529]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2018.11.26-17.52.19:993][529]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2018.11.26-17.52.19:993][529]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2018.11.26-17.52.19:993][529]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2018.11.26-17.52.19:993][529]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2018.11.26-17.52.19:993][529]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2018.11.26-17.52.20:008][529]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2018.11.26-17.52.20:029][529]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2018.11.26-17.52.20:065][529]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2018.11.26-17.52.20:065][529]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2018.11.26-17.52.20:065][529]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2018.11.26-17.52.20:065][529]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2018.11.26-17.52.20:065][529]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2018.11.26-17.52.20:065][529]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2018.11.26-17.52.20:065][529]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2018.11.26-17.52.20:065][529]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2018.11.26-17.52.20:065][529]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2018.11.26-17.52.20:065][529]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2018.11.26-17.52.20:065][529]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2018.11.26-17.52.20:065][529]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2018.11.26-17.52.20:066][529]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2018.11.26-17.52.20:066][529]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2018.11.26-17.52.20:066][529]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2018.11.26-17.52.20:066][529]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2018.11.26-17.52.20:066][529]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2018.11.26-17.52.20:080][529]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2018.11.26-17.52.20:093][529]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2018.11.26-17.52.20:134][529]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2018.11.26-17.52.20:164][529]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2018.11.26-17.52.20:179][529]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2018.11.26-17.52.20:179][529]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2018.11.26-17.52.20:179][529]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2018.11.26-17.52.20:179][529]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2018.11.26-17.52.20:179][529]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2018.11.26-17.52.21:003][529]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2018.11.26-17.52.21:003][529]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2018.11.26-17.52.21:003][529]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2018.11.26-17.52.21:003][529]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2018.11.26-17.52.21:003][529]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2018.11.26-17.52.21:003][529]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.11.26-17.52.21:029][529]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.11.26-17.52.21:048][529]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.11.26-17.52.21:070][529]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.11.26-17.52.21:078][529]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.11.26-17.52.21:078][529]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.11.26-17.52.21:093][529]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.11.26-17.52.21:111][529]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.11.26-17.52.21:111][529]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.11.26-17.52.21:111][529]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.11.26-17.52.21:111][529]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.11.26-17.52.21:112][529]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.11.26-17.52.21:112][529]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.11.26-17.52.21:122][529]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.11.26-17.52.21:131][529]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.11.26-17.52.21:141][529]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.11.26-17.52.21:149][529]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.11.26-17.52.21:156][529]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.11.26-17.52.21:209][529]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.11.26-17.52.21:226][529]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.11.26-17.52.21:235][529]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.11.26-17.52.21:250][529]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.11.26-17.52.21:250][529]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.11.26-17.52.21:258][529]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.11.26-17.52.21:258][529]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.11.26-17.52.21:283][529]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.11.26-17.52.21:283][529]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.11.26-17.52.21:283][529]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.11.26-17.52.21:300][529]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.11.26-17.52.21:300][529]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.11.26-17.52.21:300][529]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.11.26-17.52.21:300][529]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.11.26-17.52.21:310][529]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.11.26-17.52.21:311][529]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.11.26-17.52.21:311][529]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.11.26-17.52.21:322][529]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.11.26-17.52.21:322][529]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.11.26-17.52.21:322][529]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.11.26-17.52.21:335][529]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.11.26-17.52.21:350][529]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.11.26-17.52.21:350][529]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.11.26-17.52.21:350][529]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.11.26-17.52.21:350][529]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.11.26-17.52.21:350][529]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.11.26-17.52.21:350][529]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.11.26-17.52.21:388][529]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.11.26-17.52.21:388][529]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.11.26-17.52.21:399][529]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.11.26-17.52.21:399][529]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.11.26-17.52.21:407][529]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2018.11.26-17.52.21:409][529]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.11.26-17.52.21:446][529]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.11.26-17.52.21:466][529]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.11.26-17.52.21:466][529]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.11.26-17.52.21:466][529]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.11.26-17.52.21:475][529]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.11.26-17.52.21:475][529]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.11.26-17.52.21:475][529]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.11.26-17.52.21:485][529]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.11.26-17.52.21:485][529]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.11.26-17.52.21:493][529]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.11.26-17.52.21:493][529]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.11.26-17.52.21:493][529]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.11.26-17.52.21:493][529]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.11.26-17.52.21:503][529]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.11.26-17.52.21:527][529]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.11.26-17.52.21:527][529]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.11.26-17.52.21:527][529]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.11.26-17.52.21:531][529]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.11.26-17.52.21:531][529]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.11.26-17.52.21:531][529]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.11.26-17.52.21:531][529]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.11.26-17.52.21:552][529]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.11.26-17.52.21:552][529]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2018.11.26-17.52.21:552][529]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.11.26-17.52.21:552][529]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.11.26-17.52.21:552][529]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.11.26-17.52.21:552][529]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.11.26-17.52.21:552][529]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.11.26-17.52.21:552][529]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2018.11.26-17.52.21:552][529]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2018.11.26-17.52.21:572][529]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.11.26-17.52.21:572][529]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.11.26-17.52.21:596][529]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.11.26-17.52.21:623][529]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.11.26-17.52.21:623][529]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.11.26-17.52.21:636][529]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.11.26-17.52.21:646][529]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.11.26-17.52.21:646][529]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.11.26-17.52.21:646][529]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.11.26-17.52.21:646][529]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.11.26-17.52.21:646][529]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.11.26-17.52.21:658][529]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.11.26-17.52.21:701][529]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.11.26-17.52.21:725][529]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.11.26-17.52.21:725][529]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.11.26-17.52.21:733][529]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2018.11.26-17.52.21:733][529]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2018.11.26-17.52.21:733][529]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2018.11.26-17.52.21:733][529]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2018.11.26-17.52.21:733][529]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2018.11.26-17.52.21:733][529]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2018.11.26-17.52.21:762][529]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2018.11.26-17.52.21:768][529]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.11.26-17.52.21:768][529]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.11.26-17.52.21:768][529]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.11.26-17.52.21:768][529]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.11.26-17.52.21:784][529]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.11.26-17.52.21:784][529]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.26-17.52.21:784][529]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.26-17.52.21:886][529]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.26-17.52.22:010][529]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.26-17.52.22:010][529]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.26-17.52.22:010][529]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.26-17.52.22:010][529]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.26-17.52.22:010][529]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.26-17.52.22:010][529]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.26-17.52.22:039][529]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.26-17.52.22:065][529]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.26-17.52.22:076][529]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.26-17.52.22:076][529]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.26-17.52.22:076][529]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.26-17.52.22:093][529]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.26-17.52.22:094][529]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.26-17.52.22:102][529]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.26-17.52.22:102][529]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.26-17.52.22:102][529]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.26-17.52.22:107][529]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.26-17.52.22:118][529]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2018.11.26-17.52.22:118][529]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2018.11.26-17.52.22:130][529]LogModuleManager: Shutting down and abandoning module Media (241)
+[2018.11.26-17.52.22:136][529]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.11.26-17.52.22:136][529]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.11.26-17.52.22:136][529]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.11.26-17.52.22:153][529]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.11.26-17.52.22:153][529]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.11.26-17.52.22:153][529]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.11.26-17.52.22:153][529]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.11.26-17.52.22:172][529]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.11.26-17.52.22:186][529]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.11.26-17.52.22:187][529]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.11.26-17.52.22:232][529]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.11.26-17.52.22:242][529]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.11.26-17.52.22:258][529]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.11.26-17.52.22:258][529]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.11.26-17.52.22:265][529]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.11.26-17.52.22:307][529]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.11.26-17.52.22:421][529]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.11.26-17.52.22:422][529]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.11.26-17.52.22:511][529]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.11.26-17.52.22:511][529]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.11.26-17.52.22:514][529]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.11.26-17.52.22:538][529]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.11.26-17.52.22:538][529]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.11.26-17.52.22:538][529]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.11.26-17.52.22:538][529]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.11.26-17.52.22:538][529]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.11.26-17.52.22:538][529]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.11.26-17.52.22:538][529]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.11.26-17.52.22:538][529]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.11.26-17.52.22:543][529]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.11.26-17.52.22:601][529]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.11.26-17.52.22:602][529]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.11.26-17.52.22:638][529]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.11.26-17.52.22:673][529]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.11.26-17.52.22:673][529]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.11.26-17.52.22:683][529]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.11.26-17.52.22:683][529]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.11.26-17.52.22:684][529]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.11.26-17.52.22:748][529]LogDerivedDataCache: Shutdown
+[2018.11.26-17.52.22:749][529]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.11.26-17.52.22:759][529]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.11.26-17.52.22:759][529]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.11.26-17.52.22:769][529]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.11.26-17.52.22:784][529]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.11.26-17.52.22:799][529]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.11.26-17.52.22:799][529]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.11.26-17.52.22:849][529]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.11.26-17.52.22:849][529]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.11.26-17.52.22:849][529]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.11.26-17.52.22:849][529]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.11.26-17.52.22:859][529]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.11.26-17.52.22:859][529]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.11.26-17.52.22:859][529]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.11.26-17.52.22:859][529]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.11.26-17.52.22:859][529]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.11.26-17.52.22:859][529]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.11.26-17.52.22:859][529]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.11.26-17.52.22:884][529]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.11.26-17.52.22:884][529]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.11.26-17.52.22:884][529]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.11.26-17.52.22:884][529]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.11.26-17.52.22:884][529]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.11.26-17.52.22:899][529]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.11.26-17.52.22:899][529]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.11.26-17.52.22:903][529]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.11.26-17.52.22:903][529]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.11.26-17.52.22:940][529]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.11.26-17.52.22:940][529]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.11.26-17.52.22:940][529]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.11.26-17.52.22:940][529]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.11.26-17.52.22:940][529]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.11.26-17.52.22:941][529]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.11.26-17.52.22:941][529]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.11.26-17.52.22:941][529]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.11.26-17.52.22:941][529]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.11.26-17.52.22:941][529]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.11.26-17.52.22:941][529]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.11.26-17.52.22:941][529]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.11.26-17.52.22:941][529]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.11.26-17.52.22:954][529]LogHMD: Freeing OpenVRDLLHandle.
+[2018.11.26-17.52.22:954][529]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.11.26-17.52.22:968][529]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.11.26-17.52.22:968][529]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.11.26-17.52.22:968][529]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.11.26-17.52.22:968][529]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.11.26-17.52.22:981][529]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.11.26-17.52.23:010][529]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.11.26-17.52.23:103][529]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.11.26-17.52.23:103][529]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.26-17.52.23:103][529]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3CC99E8B-439F-25E1-2B09-C2951AA807C7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=45242eb4437c249b0eb6db839e13e8c7%7C427f4ff38e1a42c18a93532e63992a24%7Cb0572192-c1d1-4d9a-8779-614a621527cf&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.26-17.52.23:136][529]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.11.26-17.52.23:138][529]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.11.26-17.52.23:138][529]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.11.26-17.52.23:138][529]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.11.26-17.52.23:138][529]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.11.26-17.52.23:138][529]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.11.26-17.52.23:138][529]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.11.26-17.52.23:138][529]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.11.26-17.52.23:138][529]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.26-17.52.23:139][529]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.11.26-17.52.23:156][529]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.11.26-17.52.23:156][529]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.26-17.52.23:176][529]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.26-17.52.23:176][529]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.26-17.52.23:187][529]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.26-17.52.23:187][529]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.26-17.52.23:187][529]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.26-17.52.23:187][529]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.26-17.52.23:208][529]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.26-17.52.23:227][529]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.26-17.52.23:227][529]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.26-17.52.23:235][529]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.26-17.52.23:235][529]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.26-17.52.23:235][529]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.26-17.52.23:235][529]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.26-17.52.23:246][529]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.26-17.52.23:246][529]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.26-17.52.23:253][529]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.26-17.52.23:253][529]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.26-17.52.23:288][529]LogExit: Exiting.
+[2018.11.26-17.52.23:313][529]Log file closed, 11/26/18 15:52:23
